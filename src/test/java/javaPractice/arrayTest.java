@@ -28,7 +28,7 @@ public class arrayTest {
 		
 		}
 		System.out.println(odNumber);
-		return odNumber
+		
 		break;
 	}
 	
